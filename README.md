@@ -2,9 +2,10 @@
 
 
  Hola comunidad en este repositorio encontraras conceptos y ejemplos de el lenguaje de consultas SQL , cabe aclarar que el motor de bases de datos es MYSQL v 8.0 
+   <code><img title="Visual Studio Code" height="30" weight="20" src="https://cdnb.20m.es/sites/30/2020/10/dolphins.png"></code>
  <br>
  </br>
- Tambien pueden encontrar documentacion oficila en --> https://dev.mysql.com/doc/
+ Tambien pueden encontrar documentacion oficila en --> https://dev.mysql.com/doc/   <code><img title="Visual Studio Code" height="30" src="https://www.pngfind.com/pngs/m/219-2195646_interesting-emojis-de-whatsapp-babeando-hd-png-download.png"></code>
   <br>
  </br>
  No olviden seguir en mi perfil de linkdln --> www.linkedin.com/in/cristian-galeano-
