@@ -1,5 +1,9 @@
 CREATE DEFINER=`root`@`localhost` PROCEDURE `variables`()
 BEGIN
+
+-- Para declarar una variable en mysql tenemos que usar la sintaxis 
+-- DECLARE y poner el nombre de la variable , posteriormente poner el tipo de variable int,varchar,float,double,etc ..
+
 DECLARE nombre VARCHAR(10) DEFAULT 'Juan';
 DECLARE edad INTEGER DEFAULT 10;
 DECLARE fecha_nacimiento DATE DEFAULT '2007-01-10';
