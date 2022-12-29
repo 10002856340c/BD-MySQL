@@ -10,9 +10,7 @@
  </br>
  No olviden seguir en mi perfil de linkdln --> www.linkedin.com/in/cristian-galeano-
   <br>
- </br>
- Si quieren mas info pueden ingresar a este documento compartido -->  https://docs.google.com/document/d/1nq2y7toAWEauJgyFakBqDCh6mmwZMoHS3qEnzZlwSxM/edit?usp=sharing
- <br>
+
  </br>
  
 SQL es un lenguaje de computación para trabajar con conjuntos de datos y las relaciones entre ellos. Los programas de bases de datos relacionales, como Microsoft Office Access, usan SQL para trabajar con datos. A diferencia de muchos lenguajes de computación, SQL no es difícil de leer y entender, incluso para un usuario inexperto. Al igual que muchos lenguajes de computación, SQL es un estándar internacional reconocido por organismos de estándares como ISO y ANSI.
