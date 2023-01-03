@@ -1,0 +1,20 @@
+1) Entramos a nuestra base de datos por medio de la terminal carpeta  MySQLServer8.0 / BIN 
+
+mysql -uroot -p
+pasword : **********
+
+2)Seleccionamos nuestra base de datos
+
+mysql> USE jugos_ventas
+
+3)Para ver los detalles de nuestra consulta (query) , con el  comando EXPLAIN despues ponemos la consulta 
+
+mysql> EXPLAIN SELECT A.CODIGO_DEL_PRODUCTO FROM tabla_de_productos A;
+
+4)Despues con el comando A\G podemos ver nuestro  query para poder la estructura de nuestra consulta
+
+EXPLAIN SELECT A.CODIGO_DEL_PRODUCTO FROM tabla_de_productos A \G;
+
+5)Posteriormente con el comando JSON podemos ver nuestro cost query 
+
+mysql>  EXPLAIN FORMAT = JSON  SELECT A.CODIGO_DEL_PRODUCTO FROM tabla_de_productos  A \G;
