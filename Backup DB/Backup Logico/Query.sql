@@ -23,3 +23,11 @@ username : es el nombre de usuario de MySQL.
 password : es la contraseña de MySQL.
 database_name : es el nombre de la base de datos que deseas hacer una copia de seguridad.
 backup_file.sql : es el nombre del archivo de copia de seguridad que se creará.
+
+*) Para hacer Backup con endpoint y puerto
+Backup MysqlDump
+mysqldump -h ENDPOINT -u USER -pPASSWORD -P PUERTO NAME-BASEDEDATOS> NAMEFILE.sql
+
+*) Para hacer la restauracion de nuestra base de datos
+Restore MySQLDump
+mysql -h ENDPOINT -u USER -p PASSWORD -P PUERTO NAME-BASEDEDATOS< NAMEFILE.sql
